@@ -1,0 +1,25 @@
+
+<style>
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+</style>
+
+
+
+/*support for all webkit browsers.*/
+
+-webkit-font-smoothing: antialiased;
+/*support for safari and chrome  */
+text-rendering: optimizeLegibility;
+
+/*support for firefox*/
+
+-moz-osx-font-smoothing: grayscale;
+
+/*support for IE */
+font-feature-settings: 'liga';
